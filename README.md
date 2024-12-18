@@ -29,3 +29,6 @@ This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to
 ### Host Behavior:
 
 ##### 1- Some hosts manage multiple listings, indicating a trend toward professional hosting.
+
+## Conclusion
+This project offers valuable insights into the New York Airbnb market, helping both guests and hosts make informed decisions. By using EDA techniques, we identified key trends and developed actionable recommendations. Future improvements can involve advanced analytics and predictive modeling to further enhance the findings.
